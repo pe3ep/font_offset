@@ -2,12 +2,17 @@
 
 `Python tool to create font offset by the specified amount of pixels`
 
+---
+
 ### Usage:
 
 ```bash
 # Clone the repository
-git clone ...
+git clone https://github.com/pe3ep/font_offset.git # Or download source code
 cd font_offset/
+
+# Install dependencies
+pip install -r requirements.txt
 
 # Use tool
 python main.py
